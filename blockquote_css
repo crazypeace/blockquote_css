@@ -4,7 +4,7 @@ blockquote {
     border: 1px solid rgb(204, 204, 204);
     box-sizing: border-box;
     color: #333333;
-    font-family: Menlo, Monaco, Consolas, "Courier New", monospace !important;
+    font-family: "Source Code Pro", Menlo, Monaco, Consolas, "Courier New", monospace !important;
     font-size: 14px !important;
     font-weight: normal !important;
     font-style: normal !important;
